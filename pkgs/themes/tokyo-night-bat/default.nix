@@ -26,7 +26,7 @@ stdenv.mkDerivation rec {
         homepage = "https://github.com/folke/tokyonight.nvim";
         license = licenses.asl20;
         maintainers = with maintainers; [];
-        mainProgram = "btop";
+        mainProgram = "bat";
         platforms = platforms.all;
     };
 }
