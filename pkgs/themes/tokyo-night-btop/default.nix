@@ -24,7 +24,7 @@ stdenv.mkDerivation rec {
     meta = with lib; {
         description = "A clean theme that celebrates the lights of Downtown Tokyo at night.";
         homepage = "https://github.com/folke/tokyonight.nvim";
-        license = liscenses.apache;
+        license = licenses.apache;
         maintainers = with maintainers; [];
         mainProgram = "btop";
         platforms = platforms.all;
