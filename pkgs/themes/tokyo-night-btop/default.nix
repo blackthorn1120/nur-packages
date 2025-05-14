@@ -11,7 +11,7 @@ stdenv.mkDerivation rec {
         owner = "folke";
         repo = "tokyonight.nvim";
         rev = version;
-        hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+        hash = "sha256-pMzk1gRQFA76BCnIEGBRjJ0bQ4YOf3qecaU6Fl/nqLE=";
     };
 
     installPhase = ''
