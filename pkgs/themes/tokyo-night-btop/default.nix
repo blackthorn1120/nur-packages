@@ -11,7 +11,7 @@ stdenv.mkDerivation rec {
         owner = "aristocratos";
         repo = "btop";
         rev = version;
-        hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+        hash = "sha256-4x2vGmH2dfHZHG+zj2KGsL/pRNIZ8K*sXYRHy0io5IE=";
     };
 
     installPhase = ''
